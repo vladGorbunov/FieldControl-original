@@ -5,3 +5,5 @@ NTF is template for FieldControl (LotusScript code is here)<BR>
 <br>
 <br>https://web.archive.org/web/20110207024226/http://www.notes-fc.com/
 <br>https://www.lotusnotesforums.com/threads/fieldcontrol-for-r5-r6-v1-0.5819/
+  
+  # Open-source FieldControl now here: https://github.com/vladGorbunov/FieldControl
