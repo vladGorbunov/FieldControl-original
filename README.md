@@ -1,7 +1,7 @@
 # FieldControl original
-FieldControl for Lotus Notes R5 as of mid-2005<BR>
+FieldControl for Lotus Notes R5 as of mid-2005 (has issues with R9). <BR>
 ZIP archives that were published at www.notes-fc.com at those days. LS code is hidden as FC was not open-source at that time.<BR>
-NTF is FieldControl template with LotusScript sources<BR>
+NTF is FieldControl template with LotusScript sources.<BR>For R9 compatible open-source FC project see link at botton.<BR>
 <br>
   <img src="https://raw.githubusercontent.com/vladGorbunov/FieldControl-original/master/oldScreens/NotesItem%20actions%20(target%20document)%20-%20Lotus%20Notes%202018-09-07%2018.00.17.png"></img>
 <br>
