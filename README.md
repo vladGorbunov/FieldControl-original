@@ -1,5 +1,5 @@
 # FieldControl original
-FieldControl for Lotus Notes R5 as of mid-2005 (has issues with R9). <BR>
+FieldControl for Lotus Notes R5 as of mid-2005 (has issues with current R9). <BR>
 #### <a href="https://github.com/vladGorbunov/FieldControl-original/wiki">FieldControl is a Notes application that allows quick viewing, modifing, deletiting and creating fields in Notes documents in a convenient way. The main purpose of FieldControl is to modify fields that cannot be modified via existing forms...</a>
 
 ZIP archives that were published at www.notes-fc.com at those days. LS code is hidden as FC was not open-source at that time.<BR>
