@@ -12,6 +12,8 @@ See NTF for LotusScript sources.
   
   <img src="https://raw.githubusercontent.com/vladGorbunov/FieldControl-original/master/oldScreens/NotesItem%20actions%20(target%20document)%20-%20Lotus%20Notes%202018-09-07%2018.00.17.png"></img>
 
+SuperForm http://second-ext.inttrust.ru/Site/itforum.nsf/all/1754CCA1ECA1054BC62566C90036680D?OpenDocument
+
 https://web.archive.org/web/20110207024226/http://www.notes-fc.com/
 
 https://www.lotusnotesforums.com/threads/fieldcontrol-for-r5-r6-v1-0.5819/
